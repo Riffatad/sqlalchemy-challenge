@@ -1,6 +1,7 @@
 # sqlalchemy-challenge
 
-## Climate Data Analysis: This is an exploratory analysis of climate data, focusing on precipitation, temperature, and station activity trends. It uses SQLAlchemy to interact with a climate database and leverages Python libraries for data manipulation and visualization.
+## Climate Data Analysis:
+This is an exploratory analysis of climate data, focusing on precipitation, temperature, and station activity trends. It uses SQLAlchemy to interact with a climate database and leverages Python libraries for data manipulation and visualization.
 
 Requirements Database: Access to a SQL database containing climate data. Python Libraries: Pandas: For data manipulation and analysis. NumPy: For numerical calculations. Matplotlib: For visualization, with inline display in Jupyter. SQLAlchemy: To query and interact with the SQL database. Datetime: For handling date-related data. Analysis Workflow Database Setup: Connects to the climate database using SQLAlchemy and reflects tables, allowing the notebook to query climate data.
 
